@@ -1,0 +1,26 @@
+html recap :
+
+HTML (Hypertext Markup Language)
+
+1. The basic structure of an HTML document includes the <html>, <head>, and <body> tags.
+
+
+2. Headings are defined using <h1> to <h6> tags, where <h1> represents the highest level heading and <h6> represents the lowest level.
+
+
+3. Paragraphs are represented by the <p> tag. Text content within the <p> tag is displayed as a paragraph.
+
+
+4. Links are created using the <a> (anchor) tag. The href attribute specifies the URL or destination of the link. For example: <a href="https://www.example.com">Link</a>.
+
+
+5. Images are inserted using the <img> tag. The src attribute specifies the image file path or URL. For example: <img src="image.jpg" alt="Description">.
+
+
+6. HTML supports ordered lists (<ol>), unordered lists (<ul>), and definition lists (<dl>). List items are represented by the <li> tag within the respective list container.
+
+
+7. Tables are created using the <table> tag. Table rows are defined using <tr> tags, table headers using <th> tags, and table data cells using <td> tags.
+
+
+8. HTML provides various attributes and tags to define the visual appearance and structure of elements. However, for more advanced styling, CSS (Cascading Style Sheets) is used.

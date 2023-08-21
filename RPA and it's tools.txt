@@ -1,0 +1,14 @@
+what is the RPA : RPA stands for Robotic Process Automation. It is a technology that uses software robots or "bots" to automate repetitive and rule-based tasks within business processes. RPA tools are software platforms or frameworks that provide the capabilities to design, develop, deploy, and manage these software robots.
+
+
+what is the most used tools in RPA : 
+
+1. UiPath
+
+2. Blue Prism
+
+3. WorkFusion
+
+4. Pega
+
+5. Automation Anywhere

@@ -1,0 +1,27 @@
+website that gives live data :
+
+
+1. worldometer : Provides real-time statistics on world population, government debt, healthcare, environment.
+
+website : (www.worldometers.info)
+
+
+2. Flight Tracking (Flightradar24) : Offers live flight tracking, including real-time aircraft positions, flight routes, and airport information.
+
+website : (www.flightradar24.com)
+
+
+3. Earthquakes and Natural Disasters (USGS Earthquake Hazards Program) : 
+Provides real-time earthquake data, including location, magnitude, and depth.
+
+website : (earthquake.usgs.gov)
+
+
+4. Google Trends : Shows the latest trending topics and search queries on Google, giving insights into what people are searching for in real time.
+
+website : (trends.google.com)
+
+
+5. Cryptocurrencies  (CoinGecko) : Provides real-time cryptocurrency data, including prices, market trends, and historical charts.
+
+website : (www.coingecko.com)
